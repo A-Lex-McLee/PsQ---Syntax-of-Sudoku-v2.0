@@ -1,7 +1,7 @@
 # PsQ---Syntax-of-Sudoku-v2.0
-Updated version, still under construction. 
+ 
 See https://github.com/A-Lex-McLee/Sudoku_Grid_Syntax for a description of the base version.
-
+### NB: This version is still under construction; its main purpose is for illustration!
 
 Innovations in v2:
 * use of Numpy instead of lists/tuples for grid operations
