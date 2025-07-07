@@ -8,3 +8,8 @@ Innovations in v2:
 * class GridCollection to deal with collections of Sudoku grids, permutation series, false grids, one-hot encoding, and to produce train_test datasets e.g. for ML applications
 * GUI, which is currently just for illustration 
 
+
+## Main Components:
+* class Grid (basic infrastructure)
+* class GridCollection (extended infrastructure)
+* class 
