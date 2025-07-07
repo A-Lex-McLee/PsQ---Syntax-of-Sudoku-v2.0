@@ -47,7 +47,7 @@ class PseudoQ_Window:
         self._isABC: bool = False
         
         self.model = keras.models.load_model("multiple_k_solver_pow3b.keras")
-        self.puzzleSet = np.load("sudoku_data_pow3b.npy")
+        self.puzzleSet = np.load("sudoku_data_small.npy")
         self._k_blanks = 42
         
         self.rotateButton()
