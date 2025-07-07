@@ -12,4 +12,6 @@ Innovations in v2:
 ## Main Components:
 * class Grid (basic infrastructure)
 * class GridCollection (extended infrastructure)
-* class 
+* class PseudoQ_Window (GUI visualization)
+* auxiliary classes and functions
+* Iupyter notebook "solver_full_CNN": to create a dataset, train a model, save data (= Sudoku game grids) and model to file; these can, in turn, be used in the GUI (check lines 49/50 that the filenames are correct)
